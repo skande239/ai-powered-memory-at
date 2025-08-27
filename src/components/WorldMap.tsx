@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react'
+import React, { useEffect, useRef } from 'react'
 import { MapContainer, TileLayer, Marker, Popup, useMapEvents } from 'react-leaflet'
 import { LatLngTuple, Icon } from 'leaflet'
 import { Memory, MapPin as MapPinType } from '@/lib/types'

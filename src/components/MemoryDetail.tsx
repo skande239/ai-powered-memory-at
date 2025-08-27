@@ -1,3 +1,4 @@
+import React from 'react'
 import { Memory } from '@/lib/types'
 import { formatDate, formatRelativeDate } from '@/lib/utils'
 import { Dialog, DialogContent, DialogHeader, DialogTitle } from '@/components/ui/dialog'

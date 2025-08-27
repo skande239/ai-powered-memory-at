@@ -1,3 +1,4 @@
+import React from 'react'
 import { Memory, UserStats } from '@/lib/types'
 import { calculateUserStats, checkBadgeUnlocks } from '@/lib/utils'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'

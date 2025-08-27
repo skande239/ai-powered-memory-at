@@ -1,3 +1,4 @@
+import React from 'react'
 import { ViewMode } from '@/lib/types'
 import { cn } from '@/lib/utils'
 import { MapPin, Clock, BarChart3, User } from '@phosphor-icons/react'

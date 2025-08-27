@@ -1,3 +1,4 @@
+import React from 'react'
 import { Memory } from '@/lib/types'
 import { formatDate, formatRelativeDate } from '@/lib/utils'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
